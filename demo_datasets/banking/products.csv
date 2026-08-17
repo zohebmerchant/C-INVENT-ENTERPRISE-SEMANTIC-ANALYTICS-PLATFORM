@@ -1,0 +1,5 @@
+product_id,product_name,product_type,interest_rate
+PRD-001,Savings,Deposit,3.95
+PRD-002,Current,Deposit,4.4
+PRD-003,Term Deposit,Deposit,4.85
+PRD-004,Credit Card,Credit,5.3

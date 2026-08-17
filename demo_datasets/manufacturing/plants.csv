@@ -1,0 +1,6 @@
+plant_id,plant_name,city,plant_type
+PLT-001,Plant Mumbai,Mumbai,Assembly
+PLT-002,Plant Delhi,Delhi,Fabrication
+PLT-003,Plant Bengaluru,Bengaluru,Assembly
+PLT-004,Plant Pune,Pune,Fabrication
+PLT-005,Plant Chennai,Chennai,Assembly

@@ -1,0 +1,5 @@
+plan_id,plan_name,monthly_fee,data_allowance_gb,plan_type
+PLN-001,Lite,499,25,Postpaid
+PLN-002,Plus,699,50,Prepaid
+PLN-003,Max,899,75,Postpaid
+PLN-004,Enterprise,1099,100,Prepaid

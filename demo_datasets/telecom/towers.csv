@@ -1,0 +1,13 @@
+tower_id,tower_name,city,network_type
+TWR-001,Tower-Delhi-1,Delhi,5G
+TWR-002,Tower-Bengaluru-2,Bengaluru,4G
+TWR-003,Tower-Pune-3,Pune,5G
+TWR-004,Tower-Chennai-4,Chennai,4G
+TWR-005,Tower-Hyderabad-5,Hyderabad,5G
+TWR-006,Tower-Mumbai-6,Mumbai,4G
+TWR-007,Tower-Delhi-7,Delhi,5G
+TWR-008,Tower-Bengaluru-8,Bengaluru,4G
+TWR-009,Tower-Pune-9,Pune,5G
+TWR-010,Tower-Chennai-10,Chennai,4G
+TWR-011,Tower-Hyderabad-11,Hyderabad,5G
+TWR-012,Tower-Mumbai-12,Mumbai,4G

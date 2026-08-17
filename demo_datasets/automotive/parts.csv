@@ -1,0 +1,26 @@
+part_id,part_name,part_category,unit_cost
+PAR-0001,Part 1,Electrical,115.8
+PAR-0002,Part 2,Body,131.6
+PAR-0003,Part 3,Engine,147.4
+PAR-0004,Part 4,Electrical,163.2
+PAR-0005,Part 5,Body,179.0
+PAR-0006,Part 6,Engine,194.8
+PAR-0007,Part 7,Electrical,210.6
+PAR-0008,Part 8,Body,226.4
+PAR-0009,Part 9,Engine,242.2
+PAR-0010,Part 10,Electrical,258.0
+PAR-0011,Part 11,Body,273.8
+PAR-0012,Part 12,Engine,289.6
+PAR-0013,Part 13,Electrical,305.4
+PAR-0014,Part 14,Body,321.2
+PAR-0015,Part 15,Engine,337.0
+PAR-0016,Part 16,Electrical,352.8
+PAR-0017,Part 17,Body,368.6
+PAR-0018,Part 18,Engine,384.4
+PAR-0019,Part 19,Electrical,400.2
+PAR-0020,Part 20,Body,416.0
+PAR-0021,Part 21,Engine,431.8
+PAR-0022,Part 22,Electrical,447.6
+PAR-0023,Part 23,Body,463.4
+PAR-0024,Part 24,Engine,479.2
+PAR-0025,Part 25,Electrical,495.0

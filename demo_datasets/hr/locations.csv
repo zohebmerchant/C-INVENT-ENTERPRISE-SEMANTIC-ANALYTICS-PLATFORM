@@ -1,0 +1,7 @@
+location_id,location_name,city,country
+LOC-001,Office Mumbai,Mumbai,India
+LOC-002,Office Delhi,Delhi,India
+LOC-003,Office Bengaluru,Bengaluru,India
+LOC-004,Office Pune,Pune,India
+LOC-005,Office Chennai,Chennai,India
+LOC-006,Office Hyderabad,Hyderabad,India

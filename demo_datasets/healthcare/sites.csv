@@ -1,0 +1,6 @@
+site_id,site_name,city,country,site_type
+SIT-001,Care Centre Mumbai,Mumbai,India,Hospital
+SIT-002,Care Centre Delhi,Delhi,India,Clinic
+SIT-003,Care Centre Bengaluru,Bengaluru,India,Hospital
+SIT-004,Care Centre Pune,Pune,India,Clinic
+SIT-005,Care Centre Chennai,Chennai,India,Hospital

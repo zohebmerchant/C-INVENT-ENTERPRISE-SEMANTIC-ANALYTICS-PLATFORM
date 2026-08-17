@@ -1,0 +1,11 @@
+investigator_id,investigator_name,site_id,specialty,license_number
+INV-001,Dr. Diya Patel,SIT-002,Neurology,MED-10001
+INV-002,Dr. Kabir Singh,SIT-003,General Medicine,MED-10002
+INV-003,Dr. Ananya Gupta,SIT-004,Cardiology,MED-10003
+INV-004,Dr. Rohan Khan,SIT-005,Neurology,MED-10004
+INV-005,Dr. Meera Reddy,SIT-001,General Medicine,MED-10005
+INV-006,Dr. Arjun Das,SIT-002,Cardiology,MED-10006
+INV-007,Dr. Isha Iyer,SIT-003,Neurology,MED-10007
+INV-008,Dr. Vikram Joshi,SIT-004,General Medicine,MED-10008
+INV-009,Dr. Nisha Verma,SIT-005,Cardiology,MED-10009
+INV-010,Dr. Aarav Sharma,SIT-001,Neurology,MED-10010

@@ -1,0 +1,4 @@
+tariff_id,tariff_name,rate_per_kwh,effective_start_date,effective_end_date
+TAR-001,Residential,6.25,2026-05-17,2026-02-06
+TAR-002,Commercial,8.0,2026-05-18,2026-02-07
+TAR-003,Industrial,9.75,2026-05-19,2026-02-08

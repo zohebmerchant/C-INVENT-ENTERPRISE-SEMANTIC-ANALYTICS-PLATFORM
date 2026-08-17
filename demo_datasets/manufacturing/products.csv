@@ -1,0 +1,16 @@
+product_id,product_name,product_family,standard_cost
+PRD-0001,Assembly 1,B,134.5
+PRD-0002,Assembly 2,C,169.0
+PRD-0003,Assembly 3,A,203.5
+PRD-0004,Assembly 4,B,238.0
+PRD-0005,Assembly 5,C,272.5
+PRD-0006,Assembly 6,A,307.0
+PRD-0007,Assembly 7,B,341.5
+PRD-0008,Assembly 8,C,376.0
+PRD-0009,Assembly 9,A,410.5
+PRD-0010,Assembly 10,B,445.0
+PRD-0011,Assembly 11,C,479.5
+PRD-0012,Assembly 12,A,514.0
+PRD-0013,Assembly 13,B,548.5
+PRD-0014,Assembly 14,C,583.0
+PRD-0015,Assembly 15,A,617.5

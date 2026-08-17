@@ -1,0 +1,7 @@
+branch_id,branch_name,city,region
+BRN-001,Mumbai Central,Mumbai,West
+BRN-002,Delhi Central,Delhi,West
+BRN-003,Bengaluru Central,Bengaluru,South
+BRN-004,Pune Central,Pune,South
+BRN-005,Chennai Central,Chennai,South
+BRN-006,Hyderabad Central,Hyderabad,South

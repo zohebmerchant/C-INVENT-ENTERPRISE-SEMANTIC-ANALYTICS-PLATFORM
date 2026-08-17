@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customers>
+  <row><customer_id>1</customer_id><customer_name>A</customer_name></row>
+  <row><customer_id>2</customer_id><customer_name>B</customer_name></row>
+  <row><customer_id>3</customer_id><customer_name>C</customer_name></row>
+</customers>

@@ -1,0 +1,7 @@
+site_id,site_name,city,site_type
+SIT-001,Grid Site Mumbai,Mumbai,Commercial
+SIT-002,Grid Site Delhi,Delhi,Industrial
+SIT-003,Grid Site Bengaluru,Bengaluru,Residential
+SIT-004,Grid Site Pune,Pune,Commercial
+SIT-005,Grid Site Chennai,Chennai,Industrial
+SIT-006,Grid Site Hyderabad,Hyderabad,Residential

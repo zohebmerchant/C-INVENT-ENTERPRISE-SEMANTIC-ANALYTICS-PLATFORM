@@ -1,0 +1,6 @@
+department_id,department_name,cost_center_id
+DEP-001,Engineering,CC-001
+DEP-002,Sales,CC-002
+DEP-003,HR,CC-003
+DEP-004,Finance,CC-004
+DEP-005,Operations,CC-005
